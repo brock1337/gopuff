@@ -1,0 +1,13 @@
+{
+  "name": "gopuff-cart",
+  "version": "1.0.0",
+  "description": "goPuff server and client applications for a user cart.",
+  "main": "server/index.js",
+  "scripts": {
+    "install-all": "cd server && npm install & cd client && yarn intsall",
+    "start": "cd server && npm run start & cd client && yarn serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Rock",
+  "license": "ISC"
+}
