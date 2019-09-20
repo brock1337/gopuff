@@ -1,0 +1,69 @@
+{
+  "search_meta": {
+    "location_id": "-1",
+    "page": {
+      "total_pages": 1,
+      "total_results": 1,
+      "page": 1,
+      "page_size": 30
+    },
+    "product_id": "989",
+    "block_tobacco": false,
+    "callout_category": null
+  },
+  "products": [{
+    "product_id": 989,
+    "description": "<p style=\"text-align:center\">Okay but why would we ask you to break us off a piece of that Kit Kat bar when clearly we are just going to eat the whole thing???</p><p style=\"text-align:center\">1.5 oz.</p>",
+    "name": "Kit Kat 1.5 oz",
+    "price": "1.49",
+    "puffprice": "0.00",
+    "available_for_bonus": false,
+    "offer": null,
+    "slug": "kit_kat_1_5_oz",
+    "category_id": 20,
+    "category": "Munchies",
+    "subcategory_id": 93,
+    "subcategory": "Chocolate",
+    "dept": "Snacks",
+    "class": "Chocolate",
+    "family": "candy bar",
+    "parent_company": "Hershey's",
+    "brand": "Kit Kat",
+    "size": null,
+    "images": [{
+        "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/287/small/989_0409.jpg?1557761291",
+        "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/287/thumb/989_0409.jpg?1557761291",
+        "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/287/medium/989_0409.jpg?1557761291",
+        "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/287/xlarge/989_0409.jpg?1557761291"
+      },
+      {
+        "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/288/small/989_0410.jpg?1557761291",
+        "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/288/thumb/989_0410.jpg?1557761291",
+        "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/288/medium/989_0410.jpg?1557761291",
+        "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/288/xlarge/989_0410.jpg?1557761291"
+      },
+      {
+        "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/289/small/989_0411.jpg?1557761297",
+        "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/289/thumb/989_0411.jpg?1557761297",
+        "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/289/medium/989_0411.jpg?1557761297",
+        "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/289/xlarge/989_0411.jpg?1557761297"
+      }
+    ],
+    "kind": "ordinary",
+    "is_tobacco": 0,
+    "upc": [
+      "03424607"
+    ],
+    "avatar": {
+      "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/287/small/989_0409.jpg?1557761291",
+      "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/287/thumb/989_0409.jpg?1557761291",
+      "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/287/medium/989_0409.jpg?1557761291",
+      "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/287/xlarge/989_0409.jpg?1557761291"
+    },
+    "is_discontinued": 0,
+    "is_hidden_from_search": 0,
+    "confirmed": 1,
+    "amount": 0,
+    "quantity": 0
+  }]
+}
